@@ -1,0 +1,7 @@
+LIBRARY
+EXPORTS  
+   SetScreenOp      @1  
+   SetScreenRot     @2  
+   SetScreenBright  @3  
+   SetScreenCon     @4  
+   SetScreenSat     @5  
